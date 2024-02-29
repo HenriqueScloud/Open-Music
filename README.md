@@ -1,6 +1,6 @@
  
 <h1 align='center'>
-    <P font-size='12px'> Animais Fantásticos 🦁 </P>
+    <P font-size='12px'> Open Music 🎶 🎸 🎶 </P>
 </h1>
 
 
